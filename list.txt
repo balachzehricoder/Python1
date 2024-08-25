@@ -1,0 +1,14 @@
+
+add
+replace
+remove
+pop
+sort 
+reverse
+count
+index 
+insert 
+copy
+expend
+clear
+in
